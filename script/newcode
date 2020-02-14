@@ -1,1 +1,6 @@
-
+version: 0.0
+os: linux
+files:
+ - source: script/newcode
+   destination: /var/www/html
+   runas: root
