@@ -3,4 +3,3 @@ os: linux
 files:
  - source: script/newcode
    destination: /var/www/html
-   runas: 
